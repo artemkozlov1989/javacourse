@@ -1,4 +1,4 @@
-package course.lesson3;
+package course_moodle.lesson3;
 
 public class Employee {
     String name;

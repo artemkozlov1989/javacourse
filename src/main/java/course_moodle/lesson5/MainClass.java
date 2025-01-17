@@ -1,4 +1,4 @@
-package course.lesson5;
+package course_moodle.lesson5;
 
 // Интерфейс Shape
 interface Shape {

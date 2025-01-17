@@ -1,4 +1,4 @@
-package course.lesson1;
+package course_moodle.lesson1;
 
 public class MainApp {
     public static void printThreeWords() {

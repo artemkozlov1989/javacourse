@@ -1,4 +1,4 @@
-package course.lesson2;
+package course_moodle.lesson2;
 
 public class Massives {
     public static void main(String[] args) {
